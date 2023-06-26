@@ -2,7 +2,8 @@ For each of the cohort exercises in coding exercise, please provide a brief expl
 
 (10 points) Cohort Exercise 1: Given FactorPrime.java, write a program so that multi-threads factor the number at the same time. Print the factor as soon as it is found.\
 
-![image](https://github.com/sdsorca-cse/CE6/assets/45691542/169bcd2d-a0c0-41ae-b811-6425fa713804)
+![image](https://github.com/sdsorca-cse/CE6_readme/assets/45691542/1219eff5-3f7d-466a-ac51-027c0ae8427b)
+
 
 Name Your Solution: FactorThreadNoInterrupt.java
 
